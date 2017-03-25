@@ -1,0 +1,4 @@
+C:\Users\Pablo\Desktop\VH2017\VH2017\VH2017Content\obj\x86\Debug\VH2017Content.contentprojResolveAssemblyReference.cache
+C:\Users\manan\Desktop\VH2017\VH2017\VH2017Content\obj\x86\Debug\VH2017Content.contentprojResolveAssemblyReference.cache
+C:\Users\Dani-PC\Desktop\sonidos\vhfinal\VH2017\VH2017\VH2017Content\obj\x86\Debug\VH2017Content.contentprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\vhfinal\VH2017\VH2017\VH2017Content\obj\x86\Debug\VH2017Content.contentprojResolveAssemblyReference.cache
